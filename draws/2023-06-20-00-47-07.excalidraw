@@ -1,0 +1,86 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "file://",
+  "elements": [
+    {
+      "id": "edoINvrwh5FZSyHwQHrco",
+      "type": "text",
+      "x": 354.3203125,
+      "y": 2779.39404296875,
+      "width": 41,
+      "height": 29,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1289961901,
+      "version": 18,
+      "versionNonce": 718055587,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1687193260478,
+      "link": null,
+      "locked": false,
+      "text": "你好",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 21,
+      "containerId": null,
+      "originalText": "你好"
+    },
+    {
+      "id": "bVOe1f3EAaazzNRg9Ab0C",
+      "type": "arrow",
+      "x": 383.76171875,
+      "y": 2806.58154296875,
+      "width": 6.05078125,
+      "height": 103.84765625,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 379359843,
+      "version": 20,
+      "versionNonce": 738167469,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1687193268421,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -6.05078125,
+          103.84765625
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#FFF"
+  }
+}
