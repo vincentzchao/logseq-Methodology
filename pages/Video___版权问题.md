@@ -25,11 +25,13 @@
 		- [Sound Cloud](https://soundcloud.com/)
 		- [Free-stock-music](https://www.free-stock-music.com/)
 		- [爱给网](https://www.aigei.com/)
+		- [Free Stock Music](https://www.free-stock-music.com/)
 - ## 视频版权
 	- ### 二次创作
 		- 对平台视频的二次创作，是否涉及侵权？
+		-
 -
-## 结论
+- ## 结论
 	- 使用未经授权的音乐作为bgm确实属于侵权行为！
 	- 不过由于国内环境，一方面侵权太多、危害不大、维权成本高，另一方面如果作者维权可能很容易丧失听众缘。
 	- 另外，使用平台已获得授权的音乐，可以不用额外再去获取授权；但如果涉及商用，可能也要额外获取音乐的商用版权。
