@@ -1,0 +1,21 @@
+tags:: [[Contents]]
+---
+
+- [[Book]] - 读书笔记
+- [[Improvement]]  - 自我提升
+- ==Life - 生活攻略==
+	- [[Shopping]] - 消费
+	- [[Food]] - 美食
+	- [[Slimmling]] - 减肥
+	- [[Entertainment]] - 娱乐
+	- [[Affairs]] - 公共事务
+- ==Major - 专业学习==
+	- [[English]] - 英语
+	- [[Math]] - 数学
+	- [[Painting]] - 绘画
+	- [[Music]] - 音乐
+	- [[Writing]] - 写作
+	- [[Philosophy]] - 哲学
+	- [[Video]] - 视频制作
+-
+-
