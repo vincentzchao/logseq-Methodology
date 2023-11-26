@@ -6,7 +6,7 @@ tags:: [[Contents]]
 - ==Life - 生活攻略==
 	- [[Shopping]] - 消费
 	- [[Food]] - 美食
-	- [[Slimmling]] - 减肥
+	- [[Health]] - 健康
 	- [[Entertainment]] - 娱乐
 	- [[Affairs]] - 公共事务
 - ==Major - 专业学习==
