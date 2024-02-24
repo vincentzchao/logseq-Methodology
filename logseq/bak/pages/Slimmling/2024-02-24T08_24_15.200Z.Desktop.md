@@ -1,0 +1,26 @@
+alias:: [[减肥]]
+---
+
+-
+-
+- ## 原则
+	- 公理: **消耗 > 摄入 => 减肥**
+	- 减肥的本质是改变生活习惯，并坚持下去 (以防反弹)。
+	- 最好每周减 1 - 2斤 。
+- ## 睡眠
+	- 保持规律睡眠。
+- ## 运动
+	- 无氧 + 有氧 结合。
+- ## 饮食
+	- 8/16轻断食
+		- 参考: [【轻断食】最简单的减肥方法，断食≠节食](https://www.bilibili.com/video/BV1p5411d7Dg/?spm_id_from=333.337.search-card.all.click&vd_source=f1fbb083ddef12dcff3388779faac201)
+	- 增加蛋白质摄入。
+	- 细嚼慢咽。
+	- 早餐或者运动后的那一餐补充碳水不容易胖。
+	- 碳水和脂肪一起吃，更容易变胖。
+		- 参考: [导致肥胖的元凶是谁，怎么吃更不容易变胖？【略长干货预警】](https://www.bilibili.com/video/BV1da411e71f/?vd_source=f1fbb083ddef12dcff3388779faac201)
+- ---
+- ## 参考
+	- [减肥反弹不要慌，几点建议帮你忙！【减肥真谛】](https://www.bilibili.com/video/BV1ET4y1X7v7/?spm_id_from=333.337.search-card.all.click&vd_source=f1fbb083ddef12dcff3388779faac201)
+	-
+-
