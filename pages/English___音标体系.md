@@ -2,7 +2,7 @@ tags:: [[英语音标]]
 ---
 
 - ## 音标体系
-	- ### 国际音标
+	- ### 国际音标 (IPA)
 		- IPA (International Phonetic Alphabet) 。
 		- 被一群语言学家发明出来，给所有语言注音。
 		- ![image.png](../assets/image_1687192877111_0.png)
@@ -12,7 +12,7 @@ tags:: [[英语音标]]
 				- *这个名字中的点，Mac 上要用 `Option + Shift + 9` 打出来*
 			- 在他出版的《英语发音词典》( *English Pronouncing Dictionary* ) 中，从国际音标中借鉴符号，为当时的 **标准英式英语 (RP : Received Pronunciation)** 注音，改动不大。
 			- ![image.png](../assets/image_1687194325081_0.png){:height 432, :width 420}
-			- 在国内，以讹传讹，DJ 音标被称为国际音标。
+			- 在中国，以讹传讹，DJ 音标被称为国际音标。
 		- #### IPA63音标
 			- 《英语发音词典》1963年版本的音标。
 			- *被称为 IPA 其实不太对，因为他不是 IPA*
