@@ -37,14 +37,23 @@ tags:: [[英语音标]]
 - ## 元音三要素
 	- 由于发元音时不阻碍气流，所以影响元音的要素很少，主要是我们的 **舌头** 和 **嘴唇** .
 	- 元音三要素是:
-		- 圆唇度
-		- 舌位高低
-		- 舌位前后
-		-
+		- 圆唇度 (roundness )
+			- 即嘴唇圆的程度 .
+			- ![image.png](../assets/image_1713579134200_0.png){:height 297, :width 198}
+		- 舌位高低 (height)
+			- **舌位** 即 发音时舌头隆起的最高点 .
+			- 舌头抬高舌位就高, 舌头降低舌位就低 .
+			- ![image.png](../assets/image_1713580448272_0.png){:height 297, :width 198}
+		- 舌位前后 (backness)
+			- **舌位** 即 发音时舌头隆起的最高点 .
+			- 舌头前伸舌位就前, 舌头后缩舌位就后 .
+			- ![image.png](../assets/image_1713580539965_0.png){:height 297, :width 198}
+	- 另外, **舌位高低** 和 **舌位前后** 会影响嘴巴的 **开口度** (即嘴巴张开的大小, 注意, 与 **圆唇度** 不同) .
+	- 所以 **开口度** 可以间接判断一个元音对不对, 但并不可靠, 还是应该以上述三要素为主 .
+- ## 元音图 (Vowel Digram / Vowel Chart)
 	-
--
 -
 - ---
 - ## 参考
-	- [英语兔 - 人类发音过程](https://www.bilibili.com/video/BV1iV411z7Nj?p=4&vd_source=f1fbb083ddef12dcff3388779faac201)
+	- [英语兔 - 全网最适合中国人的免费音标课(纯干货, 超详细!) - (P4 - P6)](https://www.bilibili.com/video/BV1iV411z7Nj?p=4&vd_source=f1fbb083ddef12dcff3388779faac201)
 	-
