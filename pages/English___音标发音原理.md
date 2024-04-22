@@ -65,9 +65,10 @@ tags:: [[英语音标]]
 	- ### 辅音
 		- l :
 			- Dark L :
-				- 两点:
+				- 发音技巧
 					- 舌头后缩隆起，靠近软腭(小舌)。
 					  logseq.order-list-type:: number
+						- 可以通过喝水或者咽口水找感觉。
 					- 舌间上翘，但不一定要贴住齿龈。
 					  logseq.order-list-type:: number
 				- 参考
