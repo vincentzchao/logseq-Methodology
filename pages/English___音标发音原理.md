@@ -62,7 +62,20 @@ tags:: [[英语音标]]
 		- ɪ : 类似军训中的 **一二一** 的 **yi** .
 		- æ : 是 a 过渡到 e 的音，可以用 a 的口型去发 e .
 		- ʌ , a, ɑː 的区别:
-			-
+	- ### 辅音
+		- l :
+			- Dark L :
+				- 两点:
+					- 舌头后缩隆起，靠近软腭(小舌)。
+					  logseq.order-list-type:: number
+					- 舌间上翘，但不一定要贴住齿龈。
+					  logseq.order-list-type:: number
+				- 参考
+					- [最适合中国学生【Dark L 详细教程】15集合集|英音|英语语音课|英语发音](https://www.bilibili.com/video/BV1x64y1v729/?vd_source=f1fbb083ddef12dcff3388779faac201)
+					  logseq.order-list-type:: number
+					- [第10节：Dark L，Light L 的发音！美音！美式音标！英语发音！英语口语！美式国际音标！如何改善发音！消除口音！](https://www.bilibili.com/video/BV1wT411U77F/?vd_source=f1fbb083ddef12dcff3388779faac201)
+					  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 - ---
 - ## 参考
 	- [英语兔 - 全网最适合中国人的免费音标课(纯干货, 超详细!) - (P4 - P6)](https://www.bilibili.com/video/BV1iV411z7Nj?p=4&vd_source=f1fbb083ddef12dcff3388779faac201)
