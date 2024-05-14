@@ -1,1 +1,1 @@
-- {{renderer :tocgen2, [[痘痘]], calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[羽毛球]], calc(100vh - 135px)}}
