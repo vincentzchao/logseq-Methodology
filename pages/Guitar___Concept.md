@@ -20,3 +20,11 @@
 	  logseq.order-list-type:: number
 	- 经常弹奏！！！
 	  logseq.order-list-type:: number
+- ## 民谣吉他两个方向
+	- 弹唱
+	  logseq.order-list-type:: number
+		- 边弹边唱
+	- 指弹
+	  logseq.order-list-type:: number
+		- 只弹不唱
+-
