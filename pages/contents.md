@@ -1,1 +1,0 @@
-- {{renderer :tocgen2, [[guitar/concept]], calc(100vh - 135px)}}
