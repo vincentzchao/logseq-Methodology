@@ -3,7 +3,7 @@ tags:: [[English]]
 
 - ## 学习进度
 	- [脑洞部长 - 小猪佩奇](https://www.bilibili.com/video/BV113411F7ME/?p=2)
-		- 第 2 天  37:00 : `https://www.bilibili.com/video/BV113411F7ME/?p=3`
+		- 第 3 天  00:23 : `https://www.bilibili.com/video/BV113411F7ME/?p=4`
 		-
 - ## 学习资源
 	- ### 小猪佩奇
