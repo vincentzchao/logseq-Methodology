@@ -133,8 +133,30 @@ tags:: [[英语音标]]
 		- soy  -  /sɔɪ/
 		- 美音起始元音，舌位更低些。
 		- ![image.png](../assets/image_1723188599567_0.png){:height 214, :width 246}
+	- ### /aɪ/
+		- ![image.png](../assets/image_1723271802644_0.png){:height 214, :width 246}
+		- 起始舌位比 a 更靠后些，可以认为是普通话的 `啊`；然后终止舌位并未到达 /ɪ/ 。
+		  logseq.order-list-type:: number
+		- 而普通话 `爱` 的起始音是 a ，所以比 /aɪ/ 起始音舌位靠前；
+		  logseq.order-list-type:: number
+		- 所以 `爱` 起始嘴角更向两边拉伸，而 /aɪ/ 则听上去更饱满一些。
+		  logseq.order-list-type:: number
+		- bike  -  /baɪk/
+		- nice  -  /naɪs/
+		- time  -  /taɪm/
+	- ### /aʊ/
+		- ![image.png](../assets/image_1723272964363_0.png){:height 214, :width 246}
+		- 起始舌位比 a 更靠后些，可以认为是普通话的 `啊`；然后终止舌位并未到达 /ʊ/ 。
+		  logseq.order-list-type:: number
+		- 而普通话 `奥` 的起始音是 /ɑː/ 的短元音版本 ，所以比 /aʊ/ 起始音舌位靠后；
+		  logseq.order-list-type:: number
+		- 所以 /aʊ/ 的起始音嘴角更向两边拉伸。
+		  logseq.order-list-type:: number
+		- how  -  /haʊ/
+		- cow  -  /kaʊ/
+		  id:: 66b70fe7-7676-40c5-a7a1-626d6fef7314
+		- allow  -  /ə'laʊ/
 		-
-	-
 - ## 辅音
 	- l :
 		- Dark L :
