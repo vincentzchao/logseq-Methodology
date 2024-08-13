@@ -161,6 +161,12 @@ tags:: [[英语音标]]
 		- /əʊ/ 是英音，从 /ə/ 过渡到 /ʊ/ (与普通话的 `欧` 发音基本一致)
 		- /oʊ/ 是英音，从 o (相当于普通话的 `哦` ，比 /ə/ 舌位更高更厚，且圆唇) 过渡到 /ʊ/
 		- ![image.png](../assets/image_1723364099550_0.png){:height 174, :width 364}
+	- ### /ʊə/
+		- ![image.png](../assets/image_1723562597979_0.png){:height 214, :width 246}
+		- ![image.png](../assets/image_1723563039317_0.png){:height 105, :width 495}
+		- 英音中发 /ʊə/ 音的字母后面，通常有字母 r，在美音中会变成 `r 化元音` 。
+		- 用 DJ 音标标注美音 `r 化元音` 用 /ʊər/ 或 /ʊr/
+		- ![image.png](../assets/image_1723563061602_0.png){:height 85, :width 497}
 		-
 - ## 辅音
 	- l :
