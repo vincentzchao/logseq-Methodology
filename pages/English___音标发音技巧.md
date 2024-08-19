@@ -167,6 +167,18 @@ tags:: [[英语音标]]
 		- 英音中发 /ʊə/ 音的字母后面，通常有字母 r，在美音中会变成 `r 化元音` 。
 		- 用 DJ 音标标注美音 `r 化元音` 用 /ʊər/ 或 /ʊr/
 		- ![image.png](../assets/image_1723563061602_0.png){:height 85, :width 497}
+	- ### /eə/
+		- ![image.png](../assets/image_1724077315371_0.png){:height 214, :width 246}
+		- ![image.png](../assets/image_1724077577837_0.png){:height 105, :width 495}
+		- 英音中发 /eə/ 音的字母后面，通常有字母 r，在美音中会变成 `r 化元音` 。
+		- 用 DJ 音标标注美音 `r 化元音` 用 /eər/ 或 /er/ 。
+		- ![image.png](../assets/image_1724077611908_0.png){:height 105, :width 495}
+	- ### /ɪə/
+		- ![image.png](../assets/image_1724077672726_0.png){:height 214, :width 246}
+		- ![image.png](../assets/image_1724078278078_0.png){:height 131, :width 419}
+		- 英音中发 /ɪə/ 音的字母后面，通常有字母 r，在美音中会变成 `r 化元音` 。
+		- 用 DJ 音标标注美音 `r 化元音` 用 /ɪər/ 或 /ɪr/ 。
+		- ![image.png](../assets/image_1724078298809_0.png){:height 83, :width 423}
 		-
 - ## 辅音
 	- l :
