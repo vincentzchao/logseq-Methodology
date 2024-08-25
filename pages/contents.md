@@ -1,1 +1,1 @@
-- {{renderer :tocgen2, [[english/音标发音技巧]], calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[装机]], calc(100vh - 135px)}}
