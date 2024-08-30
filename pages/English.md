@@ -6,7 +6,7 @@ alias:: [[英语]]
 	- 根据下面的 K 式方法论，一步步来，不着急，也不要像无头苍蝇，毫无方向地学习。
 	- 音标: [[英语音标]]
 	  logseq.order-list-type:: number
-	- 语法: [[英语语法]]
+	- 语法: [[English Grammar]]
 	  logseq.order-list-type:: number
 	-
 - ## 学习进度
