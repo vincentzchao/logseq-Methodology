@@ -1,1 +1,1 @@
-- {{renderer :tocgen2, [[吉他持琴姿势]], calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[如何学习吉他]], calc(100vh - 135px)}}

@@ -8,8 +8,12 @@ alias:: [[吉他]]
 	  logseq.order-list-type:: number
 	- [[吉他持琴姿势]]
 	  logseq.order-list-type:: number
-	- [[吉他六线谱]]
+	- 乐理
 	  logseq.order-list-type:: number
-	- [[吉他-常见音符组合]]
+		- [[吉他六线谱]]
+		  logseq.order-list-type:: number
+		- [[吉他-常见音符组合]]
+		  logseq.order-list-type:: number
+	- [[吉他练琴指南]]
 	  logseq.order-list-type:: number
-	-
+-
